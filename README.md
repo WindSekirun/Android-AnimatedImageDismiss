@@ -14,4 +14,4 @@ Feel free to contribute!
 
 ## License
 
-This library follow MIT License. View [License File](License.md)
+This library follow MIT License. View [License File](https://github.com/WindSekirun/Android-AnimatedImageDismiss/blob/master/license.md)
